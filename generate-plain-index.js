@@ -2,13 +2,23 @@
 const fs = require('fs');
 
 const apiURLs = [
-  "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
-  "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
+  "https://en.bonikbarta.com/api/post-filters/112?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/108?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/107?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/111?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/109?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/113?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/110?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/106?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/114?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/105?root_path=00000000010000000002"
 ];
+
 const baseURL = "https://bonikbarta.com";
 
 async function fetchAll() {
   let allItems = [];
+
   for (let url of apiURLs) {
     try {
       const response = await fetch(url);
@@ -21,12 +31,14 @@ async function fetchAll() {
       console.error("Failed to load from", url, err);
     }
   }
-  allItems.sort((a,b)=> new Date(b.first_published_at) - new Date(a.first_published_at));
+
+  allItems.sort((a, b) => new Date(b.first_published_at) - new Date(a.first_published_at));
   return allItems;
 }
 
 async function main() {
   const items = await fetchAll();
+
   let html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,15 +50,16 @@ async function main() {
 <ul>\n`;
 
   items.forEach(item => {
-    const fullLink = (item.url_path || "/").replace(/^\/home/,"");
+    const fullLink = (item.url_path || "/").replace(/^\/home/, "");
     html += `<li><a href="${baseURL + fullLink}" target="_blank">${item.title || "No title"}</a>`;
-    if(item.first_published_at){
+    if (item.first_published_at) {
       html += ` - ${new Date(item.first_published_at).toLocaleDateString()}`;
     }
     html += `</li>\n`;
   });
 
   html += `</ul>\n</body>\n</html>`;
+
   fs.writeFileSync('index-plain.html', html, { encoding: 'utf8' });
   console.log('PolitePol-friendly HTML generated');
 }

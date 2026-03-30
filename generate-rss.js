@@ -17,7 +17,7 @@ const apiURLs = [
   "https://en.bonikbarta.com/api/post-filters/105?root_path=00000000010000000002"
 ];
 
-const baseURL = "https://bonikbarta.com";
+const baseURL = "https://en.bonikbarta.com";
 const feedFile = "feed.xml";
 const maxItems = 500;
 
@@ -63,11 +63,18 @@ function generateGUID(item) {
 function itemToRSSItem(item) {
   const nowUTC = new Date().toUTCString();
 
-  // Clean up the URL path - remove /home/ prefix if it exists
   let urlPath = item.url_path || "/";
-  urlPath = urlPath.replace(/^\/home\//, '/');
 
-  const articleUrl = baseURL + urlPath;
+  if (/^https?:\/\//i.test(urlPath)) {
+    // already a full URL
+  } else {
+    urlPath = urlPath.replace(/^\/home\//, '/');
+    urlPath = urlPath.replace(/^\/en(?=\/)/, '');
+    if (!urlPath.startsWith('/')) urlPath = '/' + urlPath;
+    urlPath = baseURL + urlPath;
+  }
+
+  const articleUrl = urlPath;
   const pubDate = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
   const title = (item.title || "No title").replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   const description = item.excerpt || item.summary || "No description available";
@@ -112,8 +119,8 @@ async function fetchJSONWithPlaywright(page, url) {
         headers: { 
           Accept: 'application/json', 
           'User-Agent': 'Mozilla/5.0',
-          'Referer': 'https://bonikbarta.com/',
-          'Accept-Language': 'bn,en;q=0.8'
+          'Referer': 'https://en.bonikbarta.com/',
+          'Accept-Language': 'en;q=0.8'
         } 
       });
       return await res.text();
@@ -150,7 +157,6 @@ async function fetchJSONWithPlaywright(page, url) {
   });
   const page = await context.newPage();
 
-  // Load existing feed items
   const existingItems = await parseExistingFeed();
   const existingGuids = new Set(existingItems.map(item => item.guid));
   const existingLinks = new Set(existingItems.map(item => item.link));
@@ -167,7 +173,6 @@ async function fetchJSONWithPlaywright(page, url) {
     for (const post of items) {
       const rssItem = itemToRSSItem(post);
 
-      // Only add if not already in feed (check both GUID and link)
       if (!existingGuids.has(rssItem.guid) && !existingLinks.has(rssItem.link)) {
         newItems.push(rssItem);
         existingGuids.add(rssItem.guid);
@@ -175,7 +180,6 @@ async function fetchJSONWithPlaywright(page, url) {
       }
     }
 
-    // Rate limiting: wait 1 second between requests
     await page.waitForTimeout(1000);
   }
 
@@ -183,13 +187,9 @@ async function fetchJSONWithPlaywright(page, url) {
 
   console.log(`🆕 Found ${newItems.length} new items`);
 
-  // Combine existing and new items
   const allItems = [...newItems, ...existingItems];
-
-  // Sort by date (newest first)
   allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  // Keep only the latest 500 items
   const finalItems = allItems.slice(0, maxItems);
 
   const rssXML = generateRSS(finalItems);

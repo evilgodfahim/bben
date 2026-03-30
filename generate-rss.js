@@ -5,9 +5,18 @@ const { chromium } = require('playwright');
 const { parseStringPromise } = require('xml2js');
 
 const apiURLs = [
-  "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
-  "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
+  "https://en.bonikbarta.com/api/post-filters/112?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/108?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/107?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/111?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/109?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/113?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/110?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/106?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/114?root_path=00000000010000000002",
+  "https://en.bonikbarta.com/api/post-filters/105?root_path=00000000010000000002"
 ];
+
 const baseURL = "https://bonikbarta.com";
 const feedFile = "feed.xml";
 const maxItems = 500;
@@ -47,20 +56,20 @@ async function parseExistingFeed() {
 
 // ---------------- RSS Helpers ----------------
 function generateGUID(item) {
-  const str = (item.title||'')+(item.excerpt||item.summary||'')+(item.first_published_at||'');
+  const str = (item.title || '') + (item.excerpt || item.summary || '') + (item.first_published_at || '');
   return crypto.createHash('md5').update(str).digest('hex');
 }
 
 function itemToRSSItem(item) {
   const nowUTC = new Date().toUTCString();
-  
+
   // Clean up the URL path - remove /home/ prefix if it exists
   let urlPath = item.url_path || "/";
   urlPath = urlPath.replace(/^\/home\//, '/');
-  
+
   const articleUrl = baseURL + urlPath;
   const pubDate = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
-  const title = (item.title || "No title").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const title = (item.title || "No title").replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   const description = item.excerpt || item.summary || "No description available";
   const guid = generateGUID(item);
 

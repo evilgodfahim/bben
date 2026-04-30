@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 30 Apr 2026 00:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 04:13:08 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>US war in Iran has cost $25 billion so far, says Pentagon official</title>
+      <link>https://en.bonikbarta.com/international/GRQwxxFbXuaktkDW/</link>
+      <description><![CDATA[Defense Secretary Pete Hegseth told lawmakers that the cost was justified given the U.S. goal of ensuring Iran will ​not have a nuclear weapon.]]></description>
+      <pubDate>Thu, 30 Apr 2026 04:10:23 GMT</pubDate>
+      <guid isPermaLink="false">18bd395f2add5a3429c65e91180a9e59</guid>
+    </item>
     <item>
       <title>Runa Laila to receive ‘Minar-E-Dilli’ honour</title>
       <link>https://en.bonikbarta.com/entertainment/ofUVULKwar6YmPHz/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[An eventual ruling by the Supreme ⁠Court endorsing the administration’s view ​could affect the legal status of as many as 250,000 babies born each year, according to some estimates, and require the families of millions more to prove the citizenship status of their newborns.]]></description>
       <pubDate>Thu, 02 Apr 2026 04:10:36 GMT</pubDate>
       <guid isPermaLink="false">a476a27475ccb081e26457ca54362756</guid>
-    </item>
-    <item>
-      <title>NASA launches four astronauts on world’s first crewed lunar mission in half a century</title>
-      <link>https://en.bonikbarta.com/technology/4i8TFyouRH9Z7Z7s/</link>
-      <description><![CDATA[NASA Administrator Jared Isaacman said the launch was an opening act for subsequent missions that would include construction of a moon base to support the “enduring presence we’re trying to create on the surface.”]]></description>
-      <pubDate>Thu, 02 Apr 2026 03:49:49 GMT</pubDate>
-      <guid isPermaLink="false">0ac027b2da971149f0cce8c46573f074</guid>
     </item>
   </channel>
 </rss>

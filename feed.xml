@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 01 May 2026 06:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:06:21 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Trump administration says its war in Iran has been ‘terminated’ before 60-day deadline</title>
+      <link>https://en.bonikbarta.com/international/12WlLpu8BIm5hVoV/</link>
+      <description><![CDATA[The statement furthers an argument laid out by Defense Secretary Pete Hegseth during testimony in the Senate earlier Thursday, when he said the ceasefire effectively paused the war.]]></description>
+      <pubDate>Fri, 01 May 2026 08:09:01 GMT</pubDate>
+      <guid isPermaLink="false">d36b42ee4a6d14037c0fe5c1f894fd8d</guid>
+    </item>
+    <item>
+      <title>Urea imports in limbo after BCIC fails to secure ships</title>
+      <link>https://en.bonikbarta.com/business/B2Cn6j9RMuD052ik/</link>
+      <description><![CDATA[The agriculture ministry and BCIC are racing to secure sufficient supply ahead of the country’s second-largest rice harvest. Those efforts have stalled, however, because of the Middle East crisis.]]></description>
+      <pubDate>Fri, 01 May 2026 07:41:00 GMT</pubDate>
+      <guid isPermaLink="false">943bdd6c157a097f7e5c0408ab0d9c2c</guid>
+    </item>
     <item>
       <title>Higher education rises in Bangladesh, but over 84% of jobs remain informal</title>
       <link>https://en.bonikbarta.com/bangladesh/WyzU66qZ4d2xHfDN/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[Two ⁠are British nationals, while the third is a dual British-Pakistani citizen.]]></description>
       <pubDate>Sat, 04 Apr 2026 08:20:51 GMT</pubDate>
       <guid isPermaLink="false">75dfff7607c2e11bad191666debafcc4</guid>
-    </item>
-    <item>
-      <title>Ship carrying 34,000 tonnes of diesel from Malaysia arrives at Ctg Port</title>
-      <link>https://en.bonikbarta.com/bangladesh/M4LnFJiBNuW8noY1/</link>
-      <description><![CDATA[The ship arrived at the Kutubdia Channel in the Bay of Bengal at the outer anchorage of the port on Friday night.]]></description>
-      <pubDate>Sat, 04 Apr 2026 07:55:54 GMT</pubDate>
-      <guid isPermaLink="false">21fe7c157abc19322d84df33d3c47163</guid>
-    </item>
-    <item>
-      <title>Falling exports steadily sap momentum at Chittagong port</title>
-      <link>https://en.bonikbarta.com/business/IWtwNFLWr2LgZWEi/</link>
-      <description><![CDATA[Until recently, steady growth in export cargo helped sustain overall growth, but the current export downturn now strains that trend.]]></description>
-      <pubDate>Sat, 04 Apr 2026 07:41:55 GMT</pubDate>
-      <guid isPermaLink="false">d428c1873cbd2f65f4ae4acacad48c53</guid>
     </item>
   </channel>
 </rss>

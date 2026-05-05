@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 05 May 2026 09:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:06:08 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Deaths of Sikder family members leave billions in bad loans unresolved</title>
+      <link>https://en.bonikbarta.com/business/ApMyXxZ0WiKipaxz/</link>
+      <description><![CDATA[The late Zainul Haque Sikder was reportedly regarded as a father figure by the deposed prime minister, Sheikh Hasina. The family parlayed this political influence into sole control of the National Bank PLC, a private-sector lender.]]></description>
+      <pubDate>Tue, 05 May 2026 10:52:00 GMT</pubDate>
+      <guid isPermaLink="false">ddfbf377589f1aecbf8601173b371455</guid>
+    </item>
     <item>
       <title>No reason for concern over Bangladesh-US trade deal, says commerce adviser</title>
       <link>https://en.bonikbarta.com/business/bKS5n7t8ojPgfZMv/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[South Korea typically announces North Korean ballistic missile launches promptly, as such tests violate U.N. Security Council resolutions against the North’s ballistic ​missile programme.]]></description>
       <pubDate>Wed, 08 Apr 2026 04:02:16 GMT</pubDate>
       <guid isPermaLink="false">c16933ff17678ff35c44c08330fca99a</guid>
-    </item>
-    <item>
-      <title>Germany intelligence agency warns of Russian APT28 cyber spying</title>
-      <link>https://en.bonikbarta.com/technology/S0wFvURW5drXlm1v/</link>
-      <description><![CDATA[APT28, also known as “Fancy Bear”, is ​attributed by Western governments to Russia’s military ‌intelligence ⁠service, the GRU.]]></description>
-      <pubDate>Wed, 08 Apr 2026 03:55:22 GMT</pubDate>
-      <guid isPermaLink="false">efcc5046dcd065def4fdd95d7c15449e</guid>
     </item>
   </channel>
 </rss>

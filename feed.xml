@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 06 May 2026 11:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 13:18:27 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Overreliance on single sector is risky for Bangladesh’s economy</title>
+      <link>https://en.bonikbarta.com/bangladesh/OnjC3XpvkWlcuNpw/</link>
+      <description><![CDATA[The ADB chief economist cautioned that excessive dependence on a single sector is risky, and any unexpected shock to that sector could deliver a major blow to the economy — something observed in the past.]]></description>
+      <pubDate>Wed, 06 May 2026 12:56:00 GMT</pubDate>
+      <guid isPermaLink="false">0ba906129830f11b109e0bf14a96325d</guid>
+    </item>
     <item>
       <title>BDT 740 billion proposed as block allocation in FY2026–27 development budget</title>
       <link>https://en.bonikbarta.com/bangladesh/7sPYUxViturjcda9/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[RMCH’s spokesperson and the emergency department in charge added that 10 patients with similar symptoms were discharged in the past 24 hours.]]></description>
       <pubDate>Wed, 08 Apr 2026 11:31:58 GMT</pubDate>
       <guid isPermaLink="false">41d61189275c2edb43ee685586bef1c1</guid>
-    </item>
-    <item>
-      <title>Gulf states eye cheap Ukrainian interceptor drone as Iranian attacks drain missile stocks</title>
-      <link>https://en.bonikbarta.com/international/Ehl1WbcIySSPd92j/</link>
-      <description><![CDATA[Gulf states and U.S. forces have largely relied ⁠on costly interceptor missiles to shoot them down, underscoring a broader shift in air combat.]]></description>
-      <pubDate>Wed, 08 Apr 2026 11:28:51 GMT</pubDate>
-      <guid isPermaLink="false">c079c6329168e52ed0e3a580e1074886</guid>
     </item>
   </channel>
 </rss>

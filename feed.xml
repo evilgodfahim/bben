@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 06 May 2026 13:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:43:17 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>“Upcoming budget will include every individual and community”</title>
+      <link>https://en.bonikbarta.com/interview/UJHK98ecTiIsMcSe/</link>
+      <description><![CDATA[“In the past, many groups remained outside the scope of the budget, with no dedicated projects for them. This time, we will bring them under inclusion. We have spoken about the ’democratisation of the economy’ — this is our slogan.”]]></description>
+      <pubDate>Wed, 06 May 2026 14:11:00 GMT</pubDate>
+      <guid isPermaLink="false">f4540b9e0e61b246bd45957517858968</guid>
+    </item>
     <item>
       <title>Overreliance on single sector is risky for Bangladesh’s economy</title>
       <link>https://en.bonikbarta.com/bangladesh/OnjC3XpvkWlcuNpw/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[The state minister underscored Italy’s role as an important partner within the European Union and sought Italy’s support for Bangladesh’s candidature for the Presidency of the 81st Session of the United Nations General Assembly.]]></description>
       <pubDate>Wed, 08 Apr 2026 11:45:34 GMT</pubDate>
       <guid isPermaLink="false">057e3ef4a5e133d16170f2778621bb9d</guid>
-    </item>
-    <item>
-      <title>Three children die with measles-like symptoms in Rajshahi; 23 newly admitted</title>
-      <link>https://en.bonikbarta.com/bangladesh/sYmzRg5aj2pI8CWx/</link>
-      <description><![CDATA[RMCH’s spokesperson and the emergency department in charge added that 10 patients with similar symptoms were discharged in the past 24 hours.]]></description>
-      <pubDate>Wed, 08 Apr 2026 11:31:58 GMT</pubDate>
-      <guid isPermaLink="false">41d61189275c2edb43ee685586bef1c1</guid>
     </item>
   </channel>
 </rss>

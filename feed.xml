@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 06 May 2026 09:31:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:27:57 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>BDT 740 billion proposed as block allocation in FY2026–27 development budget</title>
+      <link>https://en.bonikbarta.com/bangladesh/7sPYUxViturjcda9/</link>
+      <description><![CDATA[Of the proposed development budget of BDT 3 trillion, BDT 2.26 trillion has been allocated for development projects, while the remaining BDT 740 billion will be kept as a block allocation for development assistance and social development support to meet special needs.]]></description>
+      <pubDate>Wed, 06 May 2026 11:21:59 GMT</pubDate>
+      <guid isPermaLink="false">73b3a92ed0348ee413d9a8fa48febf2b</guid>
+    </item>
     <item>
       <title>Bangladesh secures $1 billion budget support as finance minister meets ADB president</title>
       <link>https://en.bonikbarta.com/bangladesh/kSe5co8CDXApb8M6/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[Gulf states and U.S. forces have largely relied ⁠on costly interceptor missiles to shoot them down, underscoring a broader shift in air combat.]]></description>
       <pubDate>Wed, 08 Apr 2026 11:28:51 GMT</pubDate>
       <guid isPermaLink="false">c079c6329168e52ed0e3a580e1074886</guid>
-    </item>
-    <item>
-      <title>Kuakata Submarine cable maintenance to slow internet for three nights</title>
-      <link>https://en.bonikbarta.com/technology/Q2SRYiSG3IV2i9qI/</link>
-      <description><![CDATA[Each night during this period, customers will experience eight hours of slower connectivity.]]></description>
-      <pubDate>Wed, 08 Apr 2026 11:13:25 GMT</pubDate>
-      <guid isPermaLink="false">01184e40a0fcbc87b1f52208d4130610</guid>
     </item>
   </channel>
 </rss>

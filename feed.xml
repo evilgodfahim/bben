@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 09 May 2026 08:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:54:09 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Bangladesh’s Education Paradox: More girls in class, fewer women in charge</title>
+      <link>https://en.bonikbarta.com/bangladesh/mIfH6bqktivtP2ix/</link>
+      <description><![CDATA[Education stakeholders demand specific field-level research and effective action to determine why women are falling behind, which barriers most obstruct their progress and which existing obstacles create the deepest challenges.]]></description>
+      <pubDate>Sat, 09 May 2026 09:48:47 GMT</pubDate>
+      <guid isPermaLink="false">cd1a1b389c7de33a090447ee94ff9a4e</guid>
+    </item>
     <item>
       <title>State minister for foreign affairs meets visiting interior minister of Pakistan</title>
       <link>https://en.bonikbarta.com/bangladesh/vOSHKl8Z1PzyFqCx/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[The Iran war has damaged Gulf energy production, stranded tanker traffic, ‌and boosted oil prices by about 50 percent in the world’s worst energy shock, with Asian buyers among the hardest hit.]]></description>
       <pubDate>Fri, 10 Apr 2026 10:24:39 GMT</pubDate>
       <guid isPermaLink="false">0cadff7f06a5a0cd4c4fd95a69c75593</guid>
-    </item>
-    <item>
-      <title>Shippers weigh unusual routes as high air cargo rates, ocean gridlock persist</title>
-      <link>https://en.bonikbarta.com/business/Sop1TGK7L9XTeVEm/</link>
-      <description><![CDATA[The cost to ship air cargo has soared due to strong demand and high jet fuel ⁠prices in the wake of Iran’s continued blockage of the vital Strait of Hormuz shipping corridor.]]></description>
-      <pubDate>Fri, 10 Apr 2026 10:19:23 GMT</pubDate>
-      <guid isPermaLink="false">3136fee139df7aea72475c7fe4e33591</guid>
     </item>
   </channel>
 </rss>

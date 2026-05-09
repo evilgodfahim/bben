@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 09 May 2026 11:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 12:12:16 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>US, Iran no closer to ending war as Gulf clashes flare</title>
+      <link>https://en.bonikbarta.com/international/3tz5bR2ilIcHOHwa/</link>
+      <description><![CDATA[Tehran has ​largely blocked non-Iranian shipping through the strait since the war began with U.S.-Israeli airstrikes across Iran on February 28. Before the war, one-fifth of the world’s oil supply passed through the narrow waterway.]]></description>
+      <pubDate>Sat, 09 May 2026 12:03:19 GMT</pubDate>
+      <guid isPermaLink="false">264dcc5b3ca1514f0e82879aa5cf1c78</guid>
+    </item>
+    <item>
+      <title>Traffic at Karnaphuli Tunnel stays far below forecast even during holiday rush</title>
+      <link>https://en.bonikbarta.com/bangladesh/uVG7junLWAG89Js8/</link>
+      <description><![CDATA[Built under the Karnaphuli River with Chinese loans, the tunnel was projected to handle 17,000 vehicles a day from the outset. It initially managed between 4,000 and 5,000. That figure has since sunk to 3,000–3,500.]]></description>
+      <pubDate>Sat, 09 May 2026 11:39:00 GMT</pubDate>
+      <guid isPermaLink="false">0d9fd79c211cdb045f689878f8690b09</guid>
+    </item>
     <item>
       <title>PM seeks BNP grassroots leaders’ help in implementing election pledges</title>
       <link>https://en.bonikbarta.com/bangladesh/o5AZv9wTTzIcpr5p/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[The adviser said the current government is prioritising technical education, and there is no scope for neglecting the sector.]]></description>
       <pubDate>Sat, 11 Apr 2026 12:39:00 GMT</pubDate>
       <guid isPermaLink="false">08a75ade7770a0ba9403bd4331f7f774</guid>
-    </item>
-    <item>
-      <title>Iran’s new supreme leader has severe and disfiguring wounds, sources say</title>
-      <link>https://en.bonikbarta.com/international/Ys4jzgQU9a3yTtaW/</link>
-      <description><![CDATA[Mojtaba Khamenei’s face was disfigured in the attack on the supreme leader’s compound in central Tehran, and he suffered a significant injury to one or both legs, three sources said.]]></description>
-      <pubDate>Sat, 11 Apr 2026 11:21:42 GMT</pubDate>
-      <guid isPermaLink="false">d6fb0aa54e63966fd6174228b10a152e</guid>
-    </item>
-    <item>
-      <title>Dhaka’s 3 bus terminals running at four times capacity; plan to cancel excess route permits</title>
-      <link>https://en.bonikbarta.com/bangladesh/3j8zoTXedp3QZKPo/</link>
-      <description><![CDATA[To address the situation, the government is planning several measures. These include cancelling route permits for excess buses. The initial plan intends to list older and expired vehicles, according to officials.]]></description>
-      <pubDate>Sat, 11 Apr 2026 10:35:32 GMT</pubDate>
-      <guid isPermaLink="false">9d3acb42580b47ee275909151e4a13a5</guid>
     </item>
   </channel>
 </rss>

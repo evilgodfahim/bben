@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 10 May 2026 14:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:33:12 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Iran says it has sent response to US peace proposal</title>
+      <link>https://en.bonikbarta.com/international/EE3TsCwgQ4Er3aJT/</link>
+      <description><![CDATA[After some 48 hours of relative calm following sporadic clashes last week, hostile drones were detected over several Gulf countries on Sunday, underlining the threat still facing the region despite a month-old ceasefire.]]></description>
+      <pubDate>Sun, 10 May 2026 14:14:15 GMT</pubDate>
+      <guid isPermaLink="false">999586fd51912a0c8fef572babd6526a</guid>
+    </item>
     <item>
       <title>Aramco Q1 profit jumps 25 percent as Hormuz risks push pipeline to full capacity</title>
       <link>https://en.bonikbarta.com/business/HeTlDPXNcCakZaXW/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[A letter regarding the publication and finalisation of the draft voter list, signed by EC Senior Assistant Secretary Md Nasir Uddin Chowdhury, has been sent to all upazila election offices.]]></description>
       <pubDate>Sun, 12 Apr 2026 11:27:01 GMT</pubDate>
       <guid isPermaLink="false">bf517f4ffc8e262ff0bbc31e7276babc</guid>
-    </item>
-    <item>
-      <title>Asha Bhosle, one of India’s most versatile Bollywood singers, passes away at 92</title>
-      <link>https://en.bonikbarta.com/entertainment/JslJPGXtLuN9Sqm5/</link>
-      <description><![CDATA[She was admitted to the hospital on late Saturday with a chest infection and exhaustion, her granddaughter Zanai Bhosle said in a social media post.]]></description>
-      <pubDate>Sun, 12 Apr 2026 11:09:39 GMT</pubDate>
-      <guid isPermaLink="false">57ef95f8f34c2535ec96075823e0a04a</guid>
     </item>
   </channel>
 </rss>

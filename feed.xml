@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 13 May 2026 01:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:29:24 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Nvidia CEO joins Trump’s mission to ‘open up’ China</title>
+      <link>https://en.bonikbarta.com/business/1MYKwTezDqEJajTN/</link>
+      <description><![CDATA[The CEOs accompanying Trump are drawn mainly from companies seeking to resolve business issues with China, such as Nvidia.]]></description>
+      <pubDate>Wed, 13 May 2026 05:21:43 GMT</pubDate>
+      <guid isPermaLink="false">6ed34bea56e7019eb220e4ca846f2a29</guid>
+    </item>
+    <item>
+      <title>Saudi Arabia launched covert attacks on Iran as regional war widened, sources say</title>
+      <link>https://en.bonikbarta.com/international/O8D3JAlFSXom2Kyg/</link>
+      <description><![CDATA[The Saudi attacks, not previously reported, mark the first time that the ​kingdom is known to have directly carried out military action on Iranian soil and show it is becoming much bolder in defending itself against its main regional rival.]]></description>
+      <pubDate>Wed, 13 May 2026 05:04:34 GMT</pubDate>
+      <guid isPermaLink="false">adab6b405a84c44c272b7f5920c04249</guid>
+    </item>
     <item>
       <title>RSC grants safety recognition to 46 RMG factories</title>
       <link>https://en.bonikbarta.com/business/rsTfK4ru8o8R9SW5/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[The first Liberal majority government in Canada since 2019 ⁠should allow Carney more freedom to pass the legislation he says is needed for the country to ​thrive in “a more divided and dangerous world”.]]></description>
       <pubDate>Wed, 15 Apr 2026 03:54:29 GMT</pubDate>
       <guid isPermaLink="false">6383d474e7b5d1d1e55786b5b027c748</guid>
-    </item>
-    <item>
-      <title>Govt introduces Farmers’ Card to make farmers self-reliant, prosperous: PM</title>
-      <link>https://en.bonikbarta.com/bangladesh/Kem0WDAiM9rP1Hwj/</link>
-      <description><![CDATA[On the occasion of the Pahela Boaishakh, the Prime Minister formally launched the pre-pilot programme in 11 upazilas of 10 districts simultaneously by handing over the Farmers’ Card to 15 marginal farmers in Tangail.]]></description>
-      <pubDate>Tue, 14 Apr 2026 12:19:48 GMT</pubDate>
-      <guid isPermaLink="false">c58d40f03403bea227ae450f54c94442</guid>
-    </item>
-    <item>
-      <title>Tankers pass Strait of Hormuz on first day of US blockade, data shows</title>
-      <link>https://en.bonikbarta.com/business/lU66FGQXz2Z7MKw1/</link>
-      <description><![CDATA[U.S. President Donald Trump announced the blockade on Sunday after weekend peace talks in Islamabad between the U.S. and Iran failed ​to reach a deal.]]></description>
-      <pubDate>Tue, 14 Apr 2026 12:13:29 GMT</pubDate>
-      <guid isPermaLink="false">d1c5f2c9f2b9f61a9c593385f95a70ae</guid>
     </item>
   </channel>
 </rss>

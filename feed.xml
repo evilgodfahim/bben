@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:12:08 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Israel is building a miles-long earthen barrier inside Gaza, entrenching its division</title>
+      <link>https://en.bonikbarta.com/international/4qXoYCesyCiSkx4S/</link>
+      <description><![CDATA[More than 23 kilometers (14 miles) have been constructed in recent months, running through Palestinian communities demolished by the military.]]></description>
+      <pubDate>Tue, 21 Jul 2026 06:16:29 GMT</pubDate>
+      <guid isPermaLink="false">1e01ce0e27206553b3fd0fdcddea5520</guid>
+    </item>
     <item>
       <title>Rajshahi University students block rail line over assault allegation</title>
       <link>https://en.bonikbarta.com/bangladesh/VKetr198Oq0qkxQl/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[Just hours after a ceasefire took effect in Lebanon between Israel and the Iran-backed militant group Hezbollah, Israeli air strikes and drone attacks killed at least five people in the south on Saturday, Lebanese state media said.]]></description>
       <pubDate>Sat, 20 Jun 2026 09:14:18 GMT</pubDate>
       <guid isPermaLink="false">3bd9aa0c49a544f529122923aa5ae184</guid>
-    </item>
-    <item>
-      <title>Bangladesh renews call for Rohingya repatriation at UN</title>
-      <link>https://en.bonikbarta.com/bangladesh/uc5K4x9wjhPjFo0o/</link>
-      <description><![CDATA[Speaking at a UN briefing, Bangladesh Permanent Representative to the United Nations Ambassador Salahuddin Noman Chowdhury said the Rohingya crisis originated in Myanmar and its durable solution must also be found there.]]></description>
-      <pubDate>Sat, 20 Jun 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="false">e168ad4604e0fd5753dcf59750bde0d5</guid>
     </item>
   </channel>
 </rss>

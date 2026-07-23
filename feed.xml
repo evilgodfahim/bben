@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:56:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:36:17 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>US signs landmark nuclear deal with Saudi Arabia</title>
+      <link>https://en.bonikbarta.com/international/jdmTSLFjDQoi1tXr/</link>
+      <description><![CDATA[The US Department of Energy noted that along with the co-operation deal, a “bilateral safeguards agreement” was also signed.]]></description>
+      <pubDate>Thu, 23 Jul 2026 04:10:10 GMT</pubDate>
+      <guid isPermaLink="false">7d46dcede46a463e491e640c0c16a00e</guid>
+    </item>
     <item>
       <title>Fresh violence at Delhi youth protest demanding minister’s resignation</title>
       <link>https://en.bonikbarta.com/international/6D37rhdI5yi6n9Dx/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[The parties agreed to a mechanism to end the fighting in Lebanon and opened a communications line to help ensure safe passages for commercial ships through the contested strait, a statement said.]]></description>
       <pubDate>Mon, 22 Jun 2026 04:55:35 GMT</pubDate>
       <guid isPermaLink="false">a82d650e3ccb7b6f085a098586632230</guid>
-    </item>
-    <item>
-      <title>Tarique Rahman holds one-to-one talks with Anwar Ibrahim</title>
-      <link>https://en.bonikbarta.com/bangladesh/x23YYV82SwQ3nPxK/</link>
-      <description><![CDATA[The two prime ministers were scheduled to hold a joint press conference after the bilateral meeting.]]></description>
-      <pubDate>Mon, 22 Jun 2026 04:49:31 GMT</pubDate>
-      <guid isPermaLink="false">5b44703e866e162064bd9ca0f4eb44de</guid>
     </item>
   </channel>
 </rss>

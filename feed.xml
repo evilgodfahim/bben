@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:19:03 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Bengal Delta Conference 2026 begins in Dhaka</title>
+      <link>https://en.bonikbarta.com/bangladesh/yzJV7dp9TjdZkmhP/</link>
+      <description><![CDATA[Held under the theme “Emerging Orders, Uncharted Times, Politics of Care,” the international conference brought together academics, policymakers, diplomats, researchers, and students to discuss contemporary political, economic, and social challenges.]]></description>
+      <pubDate>Fri, 24 Jul 2026 10:32:55 GMT</pubDate>
+      <guid isPermaLink="false">f712876eaefc53202e0a749f046ecdc6</guid>
+    </item>
     <item>
       <title>BAPEX to drill three more gas wells at cost of BDT 7.29 billion</title>
       <link>https://en.bonikbarta.com/bangladesh/OewuTAziIIdRX1Pa/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[On April 18, Iran’s navy denied the Banglar Joyjatra permission to transit the strait, citing security and strategic considerations, leaving the vessel unable to leave the Persian Gulf region.]]></description>
       <pubDate>Tue, 23 Jun 2026 04:03:00 GMT</pubDate>
       <guid isPermaLink="false">c185ca3b13464b8cffe46d83497f6af5</guid>
-    </item>
-    <item>
-      <title>US waives Iran sanctions after talks; Lebanon fighting abates</title>
-      <link>https://en.bonikbarta.com/international/gIMjUnWj3lQt7aJr/</link>
-      <description><![CDATA[The two ​sides, trying to build on the interim deal they signed last week, agreed a roadmap towards a permanent agreement within 60 days at the talks.]]></description>
-      <pubDate>Tue, 23 Jun 2026 03:40:51 GMT</pubDate>
-      <guid isPermaLink="false">41fd8de01028af2f30a0516a87245c36</guid>
     </item>
   </channel>
 </rss>

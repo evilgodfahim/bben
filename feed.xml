@@ -6,8 +6,29 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:39:38 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>China’s Xi lands in Egypt as Iran war reshapes Middle East alliances</title>
+      <link>https://en.bonikbarta.com/international/fCPaM1BwfAUcZmh0/</link>
+      <description><![CDATA[Egyptian President Abdel Fattah al-Sisi welcomed Xi at Cairo International Airport.]]></description>
+      <pubDate>Wed, 02 Sep 2026 05:37:55 GMT</pubDate>
+      <guid isPermaLink="false">f7dee39376385155679c64d448fc38c3</guid>
+    </item>
+    <item>
+      <title>Texas’ halt on powering data centers reflects US reckoning over ‘ghost’ demand</title>
+      <link>https://en.bonikbarta.com/technology/RZafKK5M3RLVJWoe/</link>
+      <description><![CDATA[In an ​attempt to find out what is real, Texas recently became the first major data center hub to freeze new grid connections for the facilities and investigate their plans.]]></description>
+      <pubDate>Wed, 02 Sep 2026 05:30:25 GMT</pubDate>
+      <guid isPermaLink="false">6ff0a5d29cae855c7927c26dfb1ef0ae</guid>
+    </item>
+    <item>
+      <title>President visits hospitalised power minister in Dhaka</title>
+      <link>https://en.bonikbarta.com/bangladesh/QbY15zvr8ZEQZUf7/</link>
+      <description><![CDATA[The minister was taken to the hospital’s emergency department before being transferred to the critical care unit, according to officials.]]></description>
+      <pubDate>Wed, 02 Sep 2026 05:02:23 GMT</pubDate>
+      <guid isPermaLink="false">6c0bdc3d5e62d2a96e61f9f75dcb9212</guid>
+    </item>
     <item>
       <title>Govt largely brings mob culture under control: Home Minister</title>
       <link>https://en.bonikbarta.com/bangladesh/bDHvyXGiE3QgAD8r/</link>
@@ -3486,27 +3507,6 @@
       <description><![CDATA[While teacher education by adjusting to the new dynamic may be the core focus for undergraduate programs, postgraduate taught programs should not just focus on producing teachers but should focus on producing education administrators, managers, planners, and academics.]]></description>
       <pubDate>Tue, 28 Jul 2026 04:53:06 GMT</pubDate>
       <guid isPermaLink="false">6f467c1973591e98933e86b5791551a5</guid>
-    </item>
-    <item>
-      <title>Nvidia in talks with OpenAI to guarantee $250 billion financing for data centre, WSJ reports</title>
-      <link>https://en.bonikbarta.com/technology/GIQUgeNs1SHFrePF/</link>
-      <description><![CDATA[The backstop from Nvidia would ‌help the ChatGPT maker lease a 10-gigawatt project that SoftBank’s energy subsidiary is developing in southern Ohio, the newspaper said, citing people familiar with the matter.]]></description>
-      <pubDate>Mon, 27 Jul 2026 10:30:32 GMT</pubDate>
-      <guid isPermaLink="false">942a46f6540efc48c53c0d3fb71ada6f</guid>
-    </item>
-    <item>
-      <title>Digital Economy: A new frontier for Bangladesh–US business relations</title>
-      <link>https://en.bonikbarta.com/opinion/cfml22wPN32wf3j7/</link>
-      <description><![CDATA[The key to sustaining this partnership lies in human capital development. The successful adoption of AI requires a workforce equipped with advanced digital skills rather than only basic programming knowledge.]]></description>
-      <pubDate>Mon, 27 Jul 2026 08:28:35 GMT</pubDate>
-      <guid isPermaLink="false">e1f57f8b2772e09329b2e9ce08a3be13</guid>
-    </item>
-    <item>
-      <title>UNICEF ranks Bangladesh among highest climate-risk nations for children</title>
-      <link>https://en.bonikbarta.com/environment/zb7VEKCAsUtAx5eA/</link>
-      <description><![CDATA[The UN agency warns repeated climate shocks are undermining children’s health, education and long-term development.]]></description>
-      <pubDate>Sun, 26 Jul 2026 11:03:07 GMT</pubDate>
-      <guid isPermaLink="false">85bce571e27b7575db17108d0ab6e657</guid>
     </item>
   </channel>
 </rss>

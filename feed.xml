@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:05:09 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Rohingya crisis needs international pressure, says state minister</title>
+      <link>https://en.bonikbarta.com/bangladesh/b8Cw4245oV5B733O/</link>
+      <description><![CDATA[She urged Bangladeshis abroad and civil-society groups to help mobilise international support for a sustainable solution.]]></description>
+      <pubDate>Sat, 05 Sep 2026 12:06:06 GMT</pubDate>
+      <guid isPermaLink="false">3f823c578b9690d67617d0ad72c74f42</guid>
+    </item>
     <item>
       <title>Rangamati hanging bridge reopens as lake water recedes</title>
       <link>https://en.bonikbarta.com/environment/4aWYpDgV5Rjeuo5b/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[As wage growth lagged behind the inflation rate, pressure on people’s real income and purchasing power increased further.]]></description>
       <pubDate>Mon, 03 Aug 2026 09:59:33 GMT</pubDate>
       <guid isPermaLink="false">b8cc8a96591a3bdd303cb5b905d8bf3a</guid>
-    </item>
-    <item>
-      <title>Australia commits AUD 25.25 million to Rohingya humanitarian response</title>
-      <link>https://en.bonikbarta.com/bangladesh/GzTDBa2PA2A8wTnU/</link>
-      <description><![CDATA[The multi-year UNHCR funding will help maintain essential services for Rohingya refugees and host communities in Bangladesh as humanitarian agencies grapple with widening funding gaps.]]></description>
-      <pubDate>Mon, 03 Aug 2026 08:03:07 GMT</pubDate>
-      <guid isPermaLink="false">db92a43fcf0231db0531ff4327d5cf63</guid>
     </item>
   </channel>
 </rss>

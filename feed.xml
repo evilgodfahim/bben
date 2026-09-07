@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 01:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:34:42 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>BPDB plans 442 MW solar plant on unused Rampal site</title>
+      <link>https://en.bonikbarta.com/bangladesh/pczuq5HUG4aWCCNa/</link>
+      <description><![CDATA[The utility plans to use 685 acres originally earmarked for the second phase of the Rampal coal plant for a solar power plant.]]></description>
+      <pubDate>Mon, 07 Sep 2026 05:12:00 GMT</pubDate>
+      <guid isPermaLink="false">dfa1a0bed13e6c62399a0a48b25ac27c</guid>
+    </item>
     <item>
       <title>Tanguar Haor: Where clouds meet the water</title>
       <link>https://en.bonikbarta.com/environment/7sDYpCjVnw1iMlFz/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[Describing the agreement as a landmark achievement, the commerce minister said it would create new opportunities for employment generation and accelerate the country’s economic growth.]]></description>
       <pubDate>Tue, 04 Aug 2026 10:06:28 GMT</pubDate>
       <guid isPermaLink="false">5dbcb42852d7cccfd792936cbda70f31</guid>
-    </item>
-    <item>
-      <title>PM meets experts, assures cooperation for safe water management</title>
-      <link>https://en.bonikbarta.com/bangladesh/nQ30JgN3p35pYW1X/</link>
-      <description><![CDATA[Discussion focused on restoring canals, ensuring the stability of rivers and embankments, improving urban drainage systems, wastewater treatment and rainwater management.]]></description>
-      <pubDate>Tue, 04 Aug 2026 10:02:16 GMT</pubDate>
-      <guid isPermaLink="false">a42fa64de28e32fa16a6034b0699e1bb</guid>
     </item>
   </channel>
 </rss>

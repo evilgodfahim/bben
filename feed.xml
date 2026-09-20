@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:37:23 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Bangladesh lifts fuel prices by BDT 20 per litre</title>
+      <link>https://en.bonikbarta.com/business/qH5b0bWXvwMqf96E/</link>
+      <description><![CDATA[The government cited higher international prices and freight costs, saying BPC lost about BDT 228.75 billion between March and August.]]></description>
+      <pubDate>Sun, 20 Sep 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="false">71f8f03d81e254d85f1aedb785834fd0</guid>
+    </item>
+    <item>
+      <title>Finance companies to get refinancing facility for CMSME sector</title>
+      <link>https://en.bonikbarta.com/business/7d61aaNOwwHZryYu/</link>
+      <description><![CDATA[Finance companies must meet certain conditions to qualify as participating institutions under the fund.]]></description>
+      <pubDate>Sun, 20 Sep 2026 14:49:00 GMT</pubDate>
+      <guid isPermaLink="false">951df9683fdb18f73bd5971d76ffe9fc</guid>
+    </item>
     <item>
       <title>Long-term plan, diversified revenue sources to revive tea sector</title>
       <link>https://en.bonikbarta.com/bangladesh/umSmSrOYiORqWisF/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[The newly elected president was welcomed by mounted police and received a guard of honour from the President Guard Regiment at Bangabhaban.]]></description>
       <pubDate>Sun, 23 Aug 2026 07:41:39 GMT</pubDate>
       <guid isPermaLink="false">7e2dc123128682128324258fda3aa7e5</guid>
-    </item>
-    <item>
-      <title>Government borrows BDT 560 billion in July, repays BDT 485 billion</title>
-      <link>https://en.bonikbarta.com/business/IcBt9KZ9771Ueeqb/</link>
-      <description><![CDATA[Net bank borrowing stood at BDT 75 billion as the government raised BDT 440 billion through Treasury bills and BDT 120 billion through bonds.]]></description>
-      <pubDate>Sun, 23 Aug 2026 07:08:26 GMT</pubDate>
-      <guid isPermaLink="false">5a2c59ddff75613fe0c1dc56b07dfd79</guid>
-    </item>
-    <item>
-      <title>Bangladesh lose by an innings inside two days in Mackay Test</title>
-      <link>https://en.bonikbarta.com/sports/SYu95OkmnJSTF6fR/</link>
-      <description><![CDATA[After the historic win, Bangladesh suffered a heavy defeat in Mackay, with the two-match series ultimately ending 1-1.]]></description>
-      <pubDate>Sun, 23 Aug 2026 07:01:06 GMT</pubDate>
-      <guid isPermaLink="false">b8debf52a8664a35803a286d2819f6e8</guid>
     </item>
   </channel>
 </rss>

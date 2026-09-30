@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:52:31 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>British HC hosts Dhaka reception to boost tourism investment in Bangladesh</title>
+      <link>https://en.bonikbarta.com/business/EAQmuKaLOyEbYvh1/</link>
+      <description><![CDATA[The World Tourism Day event brought government, business and hospitality representatives together to discuss investment and commercial partnerships.]]></description>
+      <pubDate>Wed, 30 Sep 2026 05:49:51 GMT</pubDate>
+      <guid isPermaLink="false">1c3f1ed77db55bc50efd016d1ac472b8</guid>
+    </item>
     <item>
       <title>Korean ambassador calls on state minister for foreign affairs</title>
       <link>https://en.bonikbarta.com/bangladesh/pIMgF8T797clr22N/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[The Japanese shipping company expressed interest in investing in Bangladesh’s ship recycling industry and providing technical support for environmentally sound recycling.]]></description>
       <pubDate>Wed, 02 Sep 2026 08:59:28 GMT</pubDate>
       <guid isPermaLink="false">d94548c2c63606ab3f015348988fd93e</guid>
-    </item>
-    <item>
-      <title>Sundarbans reopens after seasonal closure with fewer visitors</title>
-      <link>https://en.bonikbarta.com/environment/VXtau8PC10ZueIMU/</link>
-      <description><![CDATA[The mangrove forest reopened on Tuesday after its June 1-August 31 closure, but rain and rough weather kept first-day visitor numbers low.]]></description>
-      <pubDate>Wed, 02 Sep 2026 08:27:13 GMT</pubDate>
-      <guid isPermaLink="false">fedbcde05d8bd44545c7fd038202ad39</guid>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 06 Oct 2026 23:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:27:45 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Messi bows out as Argentina’s record scorer and cap-holder</title>
+      <link>https://en.bonikbarta.com/sports/nb1wkCNgmbknzuPA/</link>
+      <description><![CDATA[He scored once and set up two goals in his final appearance for Argentina before more than 85,000 fans at the Monumental stadium.]]></description>
+      <pubDate>Wed, 07 Oct 2026 05:25:16 GMT</pubDate>
+      <guid isPermaLink="false">0de2cccd55ea604fb7d13f0d7ddcb054</guid>
+    </item>
     <item>
       <title>Barrister Jahrat Adib Chowdhury elected to IPU Executive Committee</title>
       <link>https://en.bonikbarta.com/bangladesh/laWQuZY7MS6GBskb/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[Six months of war, the United States is mired in a battle of attrition punctuated by bursts of ​hostilities while Trump tries to tighten the economic noose around Tehran.]]></description>
       <pubDate>Thu, 10 Sep 2026 05:42:34 GMT</pubDate>
       <guid isPermaLink="false">5555c16041ce4f968620566515fa1785</guid>
-    </item>
-    <item>
-      <title>Saima Wazed resigns as WHO Southeast Asia chief after fraud allegations</title>
-      <link>https://en.bonikbarta.com/bangladesh/qRtOGB83h2zSUKCC/</link>
-      <description><![CDATA[The WHO accused Wazed of financial fraud over travel to China and misrepresenting her academic credentials, while she rejected both allegations.]]></description>
-      <pubDate>Thu, 10 Sep 2026 05:13:12 GMT</pubDate>
-      <guid isPermaLink="false">3ff4157d6efb7249671d717017a8f530</guid>
     </item>
   </channel>
 </rss>

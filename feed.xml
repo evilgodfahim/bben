@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:45:50 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>PM’s adviser calls for political settlement and reform of ‘inactive’ global financial system</title>
+      <link>https://en.bonikbarta.com/bangladesh/V8yiVOeI8f0ODKCZ/</link>
+      <description><![CDATA[Addressing researchers, legislators, and civil society representatives, Titumir argued that meaningful progress against poverty requires confronting how political power is distributed and how global institutions respond to external shocks.]]></description>
+      <pubDate>Fri, 09 Oct 2026 15:01:12 GMT</pubDate>
+      <guid isPermaLink="false">205584f9df199174f13305b2ba3fd1d5</guid>
+    </item>
+    <item>
+      <title>Breaking shock cycle: The case for a smarter energy policy in Bangladesh</title>
+      <link>https://en.bonikbarta.com/opinion/fNxDGRuJL99mvgvr/</link>
+      <description><![CDATA[The objective should not be artificially cheap fuel; it should be predictable fuel prices, targeted protection and a smaller structural dependence on imported petroleum.]]></description>
+      <pubDate>Fri, 09 Oct 2026 13:57:42 GMT</pubDate>
+      <guid isPermaLink="false">941f0ff4c7c7583a458170bc418e7a4b</guid>
+    </item>
     <item>
       <title>Higher transport costs begin to push up rice prices</title>
       <link>https://en.bonikbarta.com/business/d5prr5fbbAhbGADK/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[A high-level Chevron delegation met the prime minister as Bangladesh seeks greater investment in gas exploration and existing fields.]]></description>
       <pubDate>Sun, 13 Sep 2026 11:01:37 GMT</pubDate>
       <guid isPermaLink="false">d9b1284ad29b7f8c58b99d56c5166ecd</guid>
-    </item>
-    <item>
-      <title>Iranian commercial ship struck near Strait of Hormuz with 1 dead, Iranian media say</title>
-      <link>https://en.bonikbarta.com/international/Fk4AcUpxEcEs3qfv/</link>
-      <description><![CDATA[There was no immediate comment by the U.S. military, which has struck Iranian-flagged vessels during its blockade of Iranian ports — while facing a new threat from Iranian ballistic missiles launched at its warships.]]></description>
-      <pubDate>Sun, 13 Sep 2026 10:50:27 GMT</pubDate>
-      <guid isPermaLink="false">b3ee98a6383f846d04774b06d8293a79</guid>
-    </item>
-    <item>
-      <title>Anthropic CEO urges AI companies to slow model development amid fears over misuse</title>
-      <link>https://en.bonikbarta.com/business/IaFinzmHG7ZVpu94/</link>
-      <description><![CDATA[Anthropic CEO’s three-step plan calls for embedded independent evaluators with employee-like access to verify safety practices, coordination among frontier AI firms to set safety standards and limit unchecked AI development, and international cooperation to manage AI risks.]]></description>
-      <pubDate>Sun, 13 Sep 2026 10:41:41 GMT</pubDate>
-      <guid isPermaLink="false">275b6f287569d65cd105a82decc84d33</guid>
     </item>
   </channel>
 </rss>

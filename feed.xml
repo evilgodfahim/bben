@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:21:37 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>Biman suspends Riyadh flights indefinitely, plans to resume Dammam flights from Oct 21</title>
+      <link>https://en.bonikbarta.com/business/UJCL4drqmFXBfI7S/</link>
+      <description><![CDATA[Jeddah and Medina services continue as Biman adjusts aircraft capacity and considers extra flights to accommodate passenger demand.]]></description>
+      <pubDate>Sat, 17 Oct 2026 12:04:11 GMT</pubDate>
+      <guid isPermaLink="false">fb9a5187479a56d233afd6ecb2d1df29</guid>
+    </item>
+    <item>
+      <title>DAP revision opens land beside ecologically critical Buriganga to heavy industry</title>
+      <link>https://en.bonikbarta.com/environment/3MFGFUlxecvBa9kZ/</link>
+      <description><![CDATA[Urban planners say the amendments bypassed stakeholder consultation and technical assessment, raising concerns about Dhaka’s drainage, environmental protection and long-term liveability.]]></description>
+      <pubDate>Sat, 17 Oct 2026 11:44:16 GMT</pubDate>
+      <guid isPermaLink="false">0cf53a8fc6504976f82df40c32404703</guid>
+    </item>
     <item>
       <title>PM makes surprise visits to 13 spots, asks for cleanliness</title>
       <link>https://en.bonikbarta.com/bangladesh/FHsuSdd7HAKLK76E/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[On Saturday, five vessels left the Gulf carrying agricultural products, liquefied petroleum gas and fertiliser.]]></description>
       <pubDate>Mon, 21 Sep 2026 05:13:52 GMT</pubDate>
       <guid isPermaLink="false">c62675442576170c35c92f2b1a925765</guid>
-    </item>
-    <item>
-      <title>Iran and US trade threats after Houthi attacks escalate regional conflict</title>
-      <link>https://en.bonikbarta.com/international/vQ2kIo2RE1n2QyDb/</link>
-      <description><![CDATA[The conflict has looked stalemated for months, with no sign either side was ready for concessions.]]></description>
-      <pubDate>Mon, 21 Sep 2026 05:10:41 GMT</pubDate>
-      <guid isPermaLink="false">b00aee197ac3a905c8e387931a50a7f9</guid>
-    </item>
-    <item>
-      <title>Bangladesh lifts fuel prices by BDT 20 per litre</title>
-      <link>https://en.bonikbarta.com/business/qH5b0bWXvwMqf96E/</link>
-      <description><![CDATA[The government cited higher international prices and freight costs, saying BPC lost about BDT 228.75 billion between March and August.]]></description>
-      <pubDate>Sun, 20 Sep 2026 17:03:00 GMT</pubDate>
-      <guid isPermaLink="false">71f8f03d81e254d85f1aedb785834fd0</guid>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,22 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:43:24 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>DSCC administrator warns of legal action, goods seizure for illegal footpath shops</title>
+      <link>https://en.bonikbarta.com/bangladesh/fKitPCE35Pdc3kAh/</link>
+      <description><![CDATA[The DSCC administrator said illegal hawkers and makeshift shops were largely responsible for traffic congestion, indiscriminate waste disposal and obstructions to pedestrian movement.]]></description>
+      <pubDate>Sat, 24 Oct 2026 13:16:03 GMT</pubDate>
+      <guid isPermaLink="false">fddc0f6a6f554918113dd21f62131dd3</guid>
+    </item>
+    <item>
+      <title>Several banks’ websites shut down in Bangladesh due to global PHP vulnerability</title>
+      <link>https://en.bonikbarta.com/bangladesh/5OyxGoWryrsEOtqQ/</link>
+      <description><![CDATA[Experts say banks need urgent security audits, regular penetration testing and stronger incident response capabilities to prevent potential breaches.]]></description>
+      <pubDate>Sat, 24 Oct 2026 11:32:09 GMT</pubDate>
+      <guid isPermaLink="false">d6a6dae9390ee3e8794cb0af16a8a93d</guid>
+    </item>
     <item>
       <title>EC settles over 6.44 million NID correction applications</title>
       <link>https://en.bonikbarta.com/bangladesh/ee5E931rvocmCEHv/</link>
@@ -3493,20 +3507,6 @@
       <description><![CDATA[Private container depots have raised charges on six fuel-dependent services after diesel rose by BDT 20 a litre. Other operators are seeking to adjust rates as higher fuel costs feed through to cargo transport and handling.]]></description>
       <pubDate>Sat, 26 Sep 2026 10:37:55 GMT</pubDate>
       <guid isPermaLink="false">a177b6e6a3d4335a4bdd3889ea1f08bf</guid>
-    </item>
-    <item>
-      <title>FBCCI, Malaga chamber agree to widen trade ties</title>
-      <link>https://en.bonikbarta.com/business/uZIU7HStK5ZaLxeB/</link>
-      <description><![CDATA[FBCCI and Malaga Chamber of Commerce and Industry agree to sign an MoU to boost trade, diversify imports beyond readymade garments, and collaborate on technology and agriculture.]]></description>
-      <pubDate>Sat, 26 Sep 2026 09:52:32 GMT</pubDate>
-      <guid isPermaLink="false">1d3964aaf0342f676c4378d2c8d0c461</guid>
-    </item>
-    <item>
-      <title>Four arrested over looting, demolition at Radda health centre</title>
-      <link>https://en.bonikbarta.com/bangladesh/uzanPL0daawPZ0dg/</link>
-      <description><![CDATA[The group allegedly used heavy machinery to demolish one concrete and three semi-concrete structures at the Mirpur facility.]]></description>
-      <pubDate>Sat, 26 Sep 2026 08:49:12 GMT</pubDate>
-      <guid isPermaLink="false">efbefef1c623fe4c98d41587ee7c4c05</guid>
     </item>
   </channel>
 </rss>
